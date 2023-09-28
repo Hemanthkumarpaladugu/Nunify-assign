@@ -1,0 +1,164 @@
+.nunify-price{
+    position: relative;
+    width: 100%; 
+    height: 100%; 
+    background: blueviolet;
+}
+
+/* .logo-section{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 50%;
+    background-color: black;
+} */
+
+.nunify-logo-img{
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: blue;
+}
+
+.login-section{
+    width: 450px; 
+    height: 364.55px; 
+    position: relative
+}
+.try-box{
+    width: 118px;
+     color: #45E6F7;
+      font-size: 16px; 
+      font-family: Inter;
+       font-weight: 700; 
+       word-wrap: break-word;
+}
+.try-section{
+    width: 209px;
+    height: 48px;
+    padding-top: 16px; 
+    padding-bottom: 16px;
+    padding-left: 40px; 
+    padding-right: 32px; 
+    left: 34px; 
+    top: 260.48px; 
+    position: absolute; 
+    background: #432B7B;
+    border-radius: 8px; 
+    overflow: hidden; 
+    border: 2px #432B7B solid; 
+    justify-content: center;
+    align-items: center; 
+    gap: 12px; 
+    display: inline-flex
+}
+
+.try-block{
+    width: 6.98px; 
+    height: 13.95px; 
+    transform: rotate(180deg); 
+    transform-origin: 0 0; 
+    border: 2px #45E6F7 solid;
+}
+
+.login-100{
+    width: 142px; 
+    height: 29.69px; 
+    left: 30px; 
+    top: 26.72px; 
+    position: absolute; 
+    color: #FBFBFC; 
+    font-size: 25px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+
+.login-box{
+    width: 450px; 
+    height: 364.55px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: white; 
+    box-shadow: 0px 4px 14px 5px rgba(0, 0, 0, 0.15); 
+    border-radius: 20px; 
+    border: 0.50px #3E2678 solid;
+}
+
+.log-box{
+    width: 450px; 
+    height: 79.18px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    background: #3E2678; 
+    border-top-left-radius: 20px; 
+    border-top-right-radius: 20px;
+}
+
+.dollar-400{
+    width: 180px; 
+    height: 81.16px; 
+    left: 30px; 
+    top: 108.87px; 
+    position: absolute; 
+    color: #3E2678; 
+    font-size: 67.77px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+
+.usd-section{
+    width: 73px; 
+    height: 29.69px; 
+    left: 347px; 
+    top: 29.69px; 
+    position: absolute;
+}
+
+.usd-heading{
+    width: 53px; 
+    height: 29.69px; 
+    left: 0px; 
+    top: 0px; 
+    position: absolute; 
+    color: white; 
+    font-size: 25px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+
+.usd-box{
+    width: 12px; 
+    height: 7px; 
+    left: 61px; 
+    top: 11.88px; 
+    position: absolute; 
+    background: white;
+}
+
+.event-sec{
+    width: 133px; 
+    height: 50.48px; 
+    left: 212px; 
+    top: 129.66px; 
+    position: absolute; 
+    text-align: center; 
+    color: #3E2678; 
+    font-size: 41.89px; 
+    font-family: Inter; 
+    font-weight: 700; 
+    word-wrap: break-word;
+}
+
+.card{
+    width: 516px; 
+    height: 92px; 
+    left: 357.50px; 
+    top: 438.07px;
+    position: absolute
+}
